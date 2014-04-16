@@ -2,8 +2,6 @@ package com.polytech.devintandroid;
 
 import java.util.Locale;
 
-import com.polytech.devintandroid.R;
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.util.Log;

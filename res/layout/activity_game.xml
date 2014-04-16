@@ -14,5 +14,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="BIENVENUE DANS LE JEU !!!!!" />
- 
+    <TextView
+        android:id="@+id/textpos_x"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/textpos_y"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/textpos_z"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
