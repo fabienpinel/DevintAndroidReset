@@ -1,6 +1,8 @@
 package com.polytech.devintandroid;
 
 
+import com.polytech.devintandroid.R;
+
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Context;
@@ -30,7 +32,7 @@ public class MainActivity extends Activity{
 
 		/*
 		 * Ajout du listener sur le bouton start pour charger l'activité
-		 * StartActivity
+		 * GameActivity
 		 */
 		Button startButton = (Button) findViewById(R.id.startButton);
 		startButton.setOnClickListener(new View.OnClickListener() {
