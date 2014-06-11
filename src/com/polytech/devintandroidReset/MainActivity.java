@@ -1,7 +1,7 @@
-package com.polytech.devintandroid;
+package com.polytech.devintandroidReset;
 
 
-import com.polytech.devintandroid.R;
+import com.polytech.devintandroidReset.R;
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -17,7 +17,7 @@ import android.widget.TextView;
 /**
  * 
  * @author Fabien Pinel
- *
+ * voir http://developer.android.com/sdk/installing/installing-adt.html pour installation
  */
 public class MainActivity extends Activity{
 	LinearLayout	layout	= null;

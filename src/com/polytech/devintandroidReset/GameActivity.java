@@ -1,6 +1,6 @@
-package com.polytech.devintandroid;
+package com.polytech.devintandroidReset;
 
-import com.polytech.devintandroid.R;
+import com.polytech.devintandroidReset.R;
 
 import android.media.AudioManager;
 import android.media.SoundPool;

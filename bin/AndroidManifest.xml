@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.polytech.devintandroid"
+    package="com.polytech.devintandroidReset"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -24,7 +24,7 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         <activity
-            android:name="com.polytech.devintandroid.MainActivity"
+            android:name="com.polytech.devintandroidReset.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,25 +33,25 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.polytech.devintandroid.GameActivity"
+            android:name="com.polytech.devintandroidReset.GameActivity"
             android:label="@string/title_activity_game"
-            android:parentActivityName="com.polytech.devintandroid.MainActivity" >
+            android:parentActivityName="com.polytech.devintandroidReset.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.polytech.devintandroid.MainActivity" />
         </activity>
         <activity
-            android:name="com.polytech.devintandroid.HelpActivity"
+            android:name="com.polytech.devintandroidReset.HelpActivity"
             android:label="@string/title_activity_help"
-            android:parentActivityName="com.polytech.devintandroid.MainActivity" >
+            android:parentActivityName="com.polytech.devintandroidReset.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.polytech.devintandroid.MainActivity" />
         </activity>
         <activity
-            android:name="com.polytech.devintandroid.OptionsActivity"
+            android:name="com.polytech.devintandroidReset.OptionsActivity"
             android:label="@string/title_activity_options"
-            android:parentActivityName="com.polytech.devintandroid.MainActivity" >
+            android:parentActivityName="com.polytech.devintandroidReset.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.polytech.devintandroid.MainActivity" />

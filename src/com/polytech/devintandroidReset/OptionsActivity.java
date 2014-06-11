@@ -1,6 +1,6 @@
-package com.polytech.devintandroid;
+package com.polytech.devintandroidReset;
 
-import com.polytech.devintandroid.R;
+import com.polytech.devintandroidReset.R;
 
 import android.os.Bundle;
 import android.preference.PreferenceManager;
